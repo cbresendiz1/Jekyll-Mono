@@ -5,7 +5,8 @@ author: Charly Resendiz
 ---
 
 PLDI (Programming Language Design and Implementation), a conference on the field of programming languages and programming systems research, was hosted at Philadelphia, Pennsylvania this year.
-PLDI 2018 held 3 phenomenal keynote speakers : Ranjit Jhala, Erik Meijer, Margaret Martonosi. The DeepSpec talks were among my favorite talks, specifically ones with verified C and RISC-V.
+At the event, PLDI 2018 held 3 phenomenal keynote speakers : Ranjit Jhala, Erik Meijer, Margaret Martonosi. The DeepSpec talks were among my favorite talks, specifically ones with verified C and 
+RISC-V.
 This post is meant to capture my experiences from PLDI.
 
 ## The Liberty Bell (Interesting?)
@@ -16,8 +17,9 @@ Having lived in Pennsylvania for 11 years, in the outskirts of Philadelphia, the
 ## Ranjit Jhala (Keynote)
 -----
 
-    Ranjit Jhala, a professor at the University of California, San Diego, delivered a keynote on refinement types, its use in LiquidHaskell, and possible applications in the future.
+Ranjit Jhala, a professor at the University of California, San Diego, delivered a keynote on refinement types, its use in LiquidHaskell, and possible applications in the future.
 The keynote made it a point to draw attention on the disconnect between the verification process and software development, explaining that verification and software development
 , rarely, influenced the other. Verification often runs after development and code checks, requiring large or subtle changes to satisfy predicates and invariants if the changes fail. Dr. Jhala offered an alternative to developing verified software, "Why not verify while compiling changes, influencing developers software while developing?" At first, I couldn't imagine how that would be possible
-with LiquidHaskell, which 2 - 3 years ago did not having many features, but after his demo and explanation I was convinced at the possibilities.
+with LiquidHaskell, which 2 - 3 years ago did not have many features I used, but after his demo and explanation I was convinced at the possibilities. With the introduction of inductive proofs,
+code generations, and function generation the usability of refinement types had come a long ways.
 
