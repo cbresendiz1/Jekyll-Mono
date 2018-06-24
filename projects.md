@@ -8,7 +8,7 @@ permalink: /projects/
 
 ***
 
-### [Hindley Milner Interpreter](https://github.com/AkshayAgarwal007/Moodly)
+### [Hindley Milner Interpreter]()
 
 
 ***
