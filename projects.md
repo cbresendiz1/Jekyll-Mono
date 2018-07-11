@@ -4,10 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Lisp Interpreter]() 
-
-***
-
 ### [Hindley Milner Interpreter](https://github.com/cbresendiz1/hindley-milner)
 
 
