@@ -8,7 +8,7 @@ permalink: /projects/
 
 ***
 
-### [Hindley Milner Interpreter]()
+### [Hindley Milner Interpreter](https://github.com/cbresendiz1/hindley-milner)
 
 
 ***
